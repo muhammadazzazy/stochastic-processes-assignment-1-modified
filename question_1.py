@@ -7,7 +7,7 @@ mean_a = 4
 mean_b = 6
 
 # (a) What is the probability that exactly 3 claims are filed in Region A and exactly 5 claims are filed in Region B
-# next year
+# next year?
 claims_a = 3
 claims_b = 5
 
